@@ -18,7 +18,7 @@
 
 #define RD_JF				(1<<0)
 #define SCIENTIST			(1<<1)
-#define CHEMIST			(1<<2)
+//#define CHEMIST			(1<<2)
 #define CMO_JF				(1<<3)
 #define DOCTOR			(1<<4)
 #define GENETICIST		(1<<5)
